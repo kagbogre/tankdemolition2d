@@ -9,4 +9,4 @@ I learned all the concepts of 2D game development in Java used in this project f
 
 I did not consider adding security and anti-hacking because it was pretty out of the scope of the assigment. But a lot of server-side checks would need to be made here, especially for collisions.
 
-(Dated March 2018)
+(Dated December 2017)
