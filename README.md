@@ -8,3 +8,5 @@ I did this to basically learn a bit about core game dev and how to organize game
 I learned all the concepts of 2D game development in Java used in this project from this wonderful series on how to make a Space Invaders game with Java2D: http://www.cokeandcode.com/info/tut2d.html.
 
 I did not consider adding security and anti-hacking because it was pretty out of the scope of the assigment. But a lot of server-side checks would need to be made here, especially for collisions.
+
+(Dated March 2018)
